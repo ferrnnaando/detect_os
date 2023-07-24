@@ -18,4 +18,3 @@ Now, once you have all the dependencies, prepare your workspace and run the code
 
 
 Now use your mind to develop your apps.
-![Uploading image.png…]()
