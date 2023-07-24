@@ -6,7 +6,8 @@ This is a fundamental C++ program with which you can execute custom functions ba
 Check if you have the GNU C++ compiler for Linux.
 
 ```sudo apt show g++```
-```Install: sudo apt install g++```
+
+If not exists ```sudo apt install g++```
 
 Now, once you have all the dependencies, prepare your workspace and run the code.
 ```g++ main.cpp -o <output_name>```
